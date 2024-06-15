@@ -1,0 +1,22 @@
+{
+  "name": "abdul-rehman-student-management-system",
+  "version": "1.0.2",
+  "main": "Student_management_system.js",
+  "type": "module",
+  "bin": "Student_management_system.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ABDUL  REHMAN",
+  "license": "ISC",
+  "description": "ASSIGNMENT  FROM  GOVERNER  HOUSE  ` STUDENT_MANAGEMENT_SYSTEM `",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23"
+  }
+}
